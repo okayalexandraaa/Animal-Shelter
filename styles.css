@@ -1,0 +1,42 @@
+body {
+    background: lightgray;
+}
+
+li {
+    color: purple;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    border: 1px solid blue;
+    margin: 10px;
+}
+
+h1 {
+    font-family: 'Major Mono Display', monospace;
+}
+
+.heading {
+    background: lightgreen;
+    display: flex;
+    justify-content: center;
+}
+
+.content {
+    display: flex;
+}
+
+.info {
+    background: lightblue;
+    width: 25%;
+}
+
+.pictures {
+    background: lightpink;
+    display: flex;
+    justify-content: space-around;
+    width: 75%;
+}
